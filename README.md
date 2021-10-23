@@ -12,7 +12,7 @@ GET /reply/kbzw9ru
 }
 ```
 
-New services added to meet below requirements:
+### New services added to meet below requirements:
 
 The input string will now be comprised of two components, a rule and a string, separated by a dash (-).
 Rules **always** contain two numbers. Each number represents a string operation.
